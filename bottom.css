@@ -1,0 +1,70 @@
+/* boxes at the bottom */
+.bottom-section {
+    border: 3px solid  black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(71, 66, 66);
+    margin: 0px -8px;
+    margin-bottom: -5px;
+    margin-right: -13px;
+}
+
+.bottom-section > .codepen-wrapper {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    font-size: 1.1em;
+    
+}
+
+
+.footer {
+    background-color: #141414;
+    height: 30px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+
+.bottom-section > .codepen-wrapper > .column1 {
+    border: 2px solid black;
+    border: 0px 20px;
+    border-top: none;
+    border-bottom: none;
+    padding: 0px 37px;
+    width: 230px;
+    border-left: none;
+    border-right: none;
+}
+
+.bottom-section > .codepen-wrapper > .column2 {
+    border: 2px solid black;
+    border: 0px 20px;
+    border-top: none;
+    border-bottom: none;
+    padding: 0px 37px;
+    width: 230px;
+    border-right: none;
+    margin-left: -30px;
+}
+
+.bottom-section > .codepen-wrapper > .column3 {
+    border: 2px solid black;
+    border: 0px 20px;
+    border-top: none;
+    border-bottom: none;
+    padding: 0px 37px;
+    width: 230px;
+    border-right: none;
+}
+
+.bottom-section > .codepen-wrapper > .column4 {
+    border: 2px solid black;
+    border: 0px 20px;
+    border-top: none;
+    border-bottom: none;
+    padding: 0px 37px;
+    width: 230px;
+    border-right: none;
+}

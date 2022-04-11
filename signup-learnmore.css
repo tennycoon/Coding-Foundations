@@ -1,0 +1,31 @@
+/* Features section styles */
+.hero-section > .features-section > .columns-wrapper {
+    width: 560px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hero-section > .features-section > .columns-wrapper {
+    padding: 0px;
+    transition: 1s;
+}
+
+
+.hero-section > .features-section > .columns-wrapper > .column-1 :nth-child(1) {
+    font-size: 2em;
+    background-color: rgb(47, 255, 158);
+    border: none;
+    border-radius: 3px;
+    padding: 10px 30px;
+}
+
+.hero-section > .features-section > .columns-wrapper > .column-2 :nth-child(1){
+    font-size: 1.95em;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+
+

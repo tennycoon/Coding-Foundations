@@ -1,0 +1,50 @@
+/* common nav styles */
+.navigation-wrapper {
+    height: 110px;
+    background-color: black;
+    color: #cbcbcb;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.navigation-wrapper > .left-column img{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 230px;
+}
+
+
+/* Hero Section Styles */
+.hero-section {
+    background-image: url(../github.css/backgrounds/graybackground.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    margin-left: -10px;
+    margin-right: -10px;
+
+}
+
+.navigation-wrapper {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.04em;
+}
+
+.navigation-wrapper > .center-column > .nav-bar {
+    display: flex;
+    grid-template-columns: 2fr 4fr 1fr 1fr;
+    word-spacing: 30px;
+    font-size: 1.2em;
+    padding-right: 400px;
+}
+
+
+.navigation-wrapper > .center-column > .spark {
+    color: gray;
+    margin-left: 450px;
+    margin-top: -23px;
+    font-size: 1.1em;
+}

@@ -1,0 +1,56 @@
+/* codepen is a social developmen.......... */
+.hero-section > .top-heading { 
+    padding: 1px 30px;
+    color: white;
+    width: 500px;
+    height: 120px;
+    border-radius: 2px;
+}
+ /* It's the best place to ........... */
+.hero-section > .bottom-heading {
+    color: gray;
+    padding: 1px 30px;
+    width: 550px;
+    border-radius: 2px;
+    font-size: 1.5em;
+}
+.hero-section > .right-column1 {
+    color: white;
+    padding-left: 675px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: -70px;
+}
+
+.hero-section > .right-column2 {
+    color: rgba(0, 194, 194);
+    padding-left: 749px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: -70px;
+}
+
+.hero-section > .right-column3 {
+    color: gray;
+    padding-left: 934px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: -70px;
+    margin-top: 2px;
+}
+
+
+.hero-section > .Project-picture img{
+    height: 350px;
+    width: 600px;
+    float: right;
+    margin-top: 50px;
+}
+
+.hero-section > .top-heading i{
+    color: tan;
+}
+

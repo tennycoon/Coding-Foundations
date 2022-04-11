@@ -1,0 +1,59 @@
+/* buttons in nav bar */
+.navigation-wrapper > .right-column {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Create button */
+.navigation-wrapper > .right-column > .create button{
+    background-color: rgb(71, 66, 66);
+     color: white;
+     height: 50px;
+     width: 105px;
+     border-radius: 4px;
+     margin-left: -220px;
+     border-color: transparent;
+     font-weight: 700;
+     font-size: 1.04em;
+}
+
+.navigation-wrapper > .right-column > .create button i{
+    color: green;
+    font-size: 1.25em;
+}
+
+/* magnifying glass */
+.navigation-wrapper > .right-column > .search-icon i{
+    margin-left: -110px;
+    font-size: 1.9em;
+    padding-top: 10px;
+}
+
+/* Login button */
+.navigation-wrapper > .right-column > .login button{
+    background-color: rgb(71, 66, 66);
+     color: white;
+     height: 50px;
+     width: 105px;
+     border-radius: 4px;
+     margin-left: -70px;
+     border-color: transparent;
+     font-weight: 700;
+     font-size: 1.04em;
+}
+
+/* sign in button */
+.navigation-wrapper > .right-column > .signup button{
+    background-color: rgb(71, 66, 66);
+     color: white;
+     height: 50px;
+     width: 105px;
+     border-radius: 4px;
+     margin-left: 10px;
+     border-color: transparent;
+     font-weight: 700;
+     font-size: 1.04em;
+}
+
+
+
